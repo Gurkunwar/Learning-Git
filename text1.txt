@@ -1,1 +1,3 @@
-Hello, Git.
+Hello, Git
+
+It's a wonderful day
